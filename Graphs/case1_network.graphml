@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="Multinacional" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Romero">
+  <data key="d0">1</data>
+</node>
+<node id="Graña">
+  <data key="d0">1</data>
+</node>
+<node id="Miro Quesada">
+  <data key="d0">1</data>
+</node>
+<node id="Moreyra">
+  <data key="d0">1</data>
+</node>
+<node id="Fort">
+  <data key="d0">1</data>
+</node>
+<node id="De La Puente">
+  <data key="d0">1</data>
+</node>
+<node id="Onrubia">
+  <data key="d0">1</data>
+</node>
+<node id="Brescia">
+  <data key="d0">1</data>
+</node>
+<node id="Nicolini">
+  <data key="d0">1</data>
+</node>
+<node id="Bentin">
+  <data key="d0">1</data>
+</node>
+<node id="Benavides">
+  <data key="d0">1</data>
+</node>
+<node id="Bustamante">
+  <data key="d0">1</data>
+</node>
+<node id="Woodman Pollit">
+  <data key="d0">1</data>
+</node>
+<node id="Raffo">
+  <data key="d0">1</data>
+</node>
+<node id="Piazza">
+  <data key="d0">1</data>
+</node>
+<node id="Berckemeyer">
+  <data key="d0">0</data>
+</node>
+<node id="Llosa Barber">
+  <data key="d0">1</data>
+</node>
+<node id="Rizo Patron">
+  <data key="d0">1</data>
+</node>
+<node id="Montori">
+  <data key="d0">1</data>
+</node>
+<node id="Wiese">
+  <data key="d0">1</data>
+</node>
+<node id="Montero">
+  <data key="d0">1</data>
+</node>
+<node id="Beoutis Ledesma">
+  <data key="d0">1</data>
+</node>
+<node id="Michell">
+  <data key="d0">0</data>
+</node>
+<node id="Picaso">
+  <data key="d0">1</data>
+</node>
+<node id="Sotomayor">
+  <data key="d0">1</data>
+</node>
+<node id="Cilloniz">
+  <data key="d0">1</data>
+</node>
+<node id="Ferreyros">
+  <data key="d0">0</data>
+</node>
+<node id="Wong Lu">
+  <data key="d0">1</data>
+</node>
+<node id="Batievsky Spack">
+  <data key="d0">1</data>
+</node>
+<node id="Matos Escalada">
+  <data key="d0">1</data>
+</node>
+<node id="Galsky">
+  <data key="d0">0</data>
+</node>
+<edge source="Romero" target="Graña"/>
+<edge source="Romero" target="Miro Quesada"/>
+<edge source="Romero" target="Moreyra"/>
+<edge source="Romero" target="Fort"/>
+<edge source="Romero" target="De La Puente"/>
+<edge source="Romero" target="Onrubia"/>
+<edge source="Romero" target="Brescia"/>
+<edge source="Romero" target="Nicolini"/>
+<edge source="Romero" target="Bentin"/>
+<edge source="Romero" target="Benavides"/>
+<edge source="Romero" target="Bustamante"/>
+<edge source="Romero" target="Woodman Pollit"/>
+<edge source="Romero" target="Raffo"/>
+<edge source="Romero" target="Piazza"/>
+<edge source="Romero" target="Berckemeyer"/>
+<edge source="Romero" target="Llosa Barber"/>
+<edge source="Romero" target="Rizo Patron"/>
+<edge source="Romero" target="Montori"/>
+<edge source="Graña" target="Miro Quesada"/>
+<edge source="Graña" target="Fort"/>
+<edge source="Graña" target="De La Puente"/>
+<edge source="Graña" target="Wiese"/>
+<edge source="Graña" target="Montero"/>
+<edge source="Graña" target="Benavides"/>
+<edge source="Graña" target="Bustamante"/>
+<edge source="Graña" target="Piazza"/>
+<edge source="Graña" target="Beoutis Ledesma"/>
+<edge source="Graña" target="Michell"/>
+<edge source="Miro Quesada" target="Fort"/>
+<edge source="Miro Quesada" target="De La Puente"/>
+<edge source="Miro Quesada" target="Wiese"/>
+<edge source="Miro Quesada" target="Montero"/>
+<edge source="Miro Quesada" target="Benavides"/>
+<edge source="Miro Quesada" target="Bustamante"/>
+<edge source="Miro Quesada" target="Piazza"/>
+<edge source="Miro Quesada" target="Beoutis Ledesma"/>
+<edge source="Miro Quesada" target="Michell"/>
+<edge source="Moreyra" target="Fort"/>
+<edge source="Moreyra" target="De La Puente"/>
+<edge source="Moreyra" target="Wiese"/>
+<edge source="Moreyra" target="Onrubia"/>
+<edge source="Moreyra" target="Brescia"/>
+<edge source="Moreyra" target="Montero"/>
+<edge source="Moreyra" target="Picaso"/>
+<edge source="Moreyra" target="Bentin"/>
+<edge source="Moreyra" target="Bustamante"/>
+<edge source="Moreyra" target="Raffo"/>
+<edge source="Moreyra" target="Berckemeyer"/>
+<edge source="Moreyra" target="Rizo Patron"/>
+<edge source="Moreyra" target="Montori"/>
+<edge source="Moreyra" target="Sotomayor"/>
+<edge source="Fort" target="De La Puente"/>
+<edge source="Fort" target="Onrubia"/>
+<edge source="Fort" target="Brescia"/>
+<edge source="Fort" target="Nicolini"/>
+<edge source="Fort" target="Picaso"/>
+<edge source="Fort" target="Bentin"/>
+<edge source="Fort" target="Benavides"/>
+<edge source="Fort" target="Bustamante"/>
+<edge source="Fort" target="Woodman Pollit"/>
+<edge source="Fort" target="Raffo"/>
+<edge source="Fort" target="Piazza"/>
+<edge source="Fort" target="Llosa Barber"/>
+<edge source="Fort" target="Beoutis Ledesma"/>
+<edge source="Fort" target="Sotomayor"/>
+<edge source="Fort" target="Cilloniz"/>
+<edge source="De La Puente" target="Wiese"/>
+<edge source="De La Puente" target="Montero"/>
+<edge source="De La Puente" target="Benavides"/>
+<edge source="De La Puente" target="Bustamante"/>
+<edge source="De La Puente" target="Piazza"/>
+<edge source="De La Puente" target="Berckemeyer"/>
+<edge source="De La Puente" target="Beoutis Ledesma"/>
+<edge source="De La Puente" target="Rizo Patron"/>
+<edge source="De La Puente" target="Sotomayor"/>
+<edge source="Onrubia" target="Brescia"/>
+<edge source="Onrubia" target="Nicolini"/>
+<edge source="Onrubia" target="Bentin"/>
+<edge source="Onrubia" target="Woodman Pollit"/>
+<edge source="Onrubia" target="Raffo"/>
+<edge source="Onrubia" target="Berckemeyer"/>
+<edge source="Onrubia" target="Llosa Barber"/>
+<edge source="Onrubia" target="Montori"/>
+<edge source="Brescia" target="Bentin"/>
+<edge source="Brescia" target="Raffo"/>
+<edge source="Brescia" target="Berckemeyer"/>
+<edge source="Brescia" target="Montori"/>
+<edge source="Nicolini" target="Bentin"/>
+<edge source="Nicolini" target="Woodman Pollit"/>
+<edge source="Nicolini" target="Raffo"/>
+<edge source="Nicolini" target="Llosa Barber"/>
+<edge source="Nicolini" target="Rizo Patron"/>
+<edge source="Bentin" target="Woodman Pollit"/>
+<edge source="Bentin" target="Raffo"/>
+<edge source="Bentin" target="Berckemeyer"/>
+<edge source="Bentin" target="Llosa Barber"/>
+<edge source="Bentin" target="Montori"/>
+<edge source="Bentin" target="Ferreyros"/>
+<edge source="Bentin" target="Wong Lu"/>
+<edge source="Benavides" target="Bustamante"/>
+<edge source="Benavides" target="Piazza"/>
+<edge source="Bustamante" target="Montero"/>
+<edge source="Bustamante" target="Picaso"/>
+<edge source="Bustamante" target="Piazza"/>
+<edge source="Bustamante" target="Montori"/>
+<edge source="Bustamante" target="Cilloniz"/>
+<edge source="Bustamante" target="Ferreyros"/>
+<edge source="Woodman Pollit" target="Raffo"/>
+<edge source="Woodman Pollit" target="Berckemeyer"/>
+<edge source="Raffo" target="Berckemeyer"/>
+<edge source="Raffo" target="Llosa Barber"/>
+<edge source="Raffo" target="Montori"/>
+<edge source="Piazza" target="Llosa Barber"/>
+<edge source="Piazza" target="Beoutis Ledesma"/>
+<edge source="Berckemeyer" target="Wiese"/>
+<edge source="Berckemeyer" target="Rizo Patron"/>
+<edge source="Berckemeyer" target="Montori"/>
+<edge source="Berckemeyer" target="Sotomayor"/>
+<edge source="Llosa Barber" target="Beoutis Ledesma"/>
+<edge source="Rizo Patron" target="Wiese"/>
+<edge source="Rizo Patron" target="Sotomayor"/>
+<edge source="Montori" target="Cilloniz"/>
+<edge source="Wiese" target="Montero"/>
+<edge source="Wiese" target="Beoutis Ledesma"/>
+<edge source="Wiese" target="Sotomayor"/>
+<edge source="Montero" target="Picaso"/>
+<edge source="Montero" target="Beoutis Ledesma"/>
+<edge source="Montero" target="Ferreyros"/>
+<edge source="Picaso" target="Sotomayor"/>
+<edge source="Picaso" target="Cilloniz"/>
+<edge source="Sotomayor" target="Cilloniz"/>
+<edge source="Batievsky Spack" target="Matos Escalada"/>
+<edge source="Batievsky Spack" target="Galsky"/>
+</graph></graphml>
