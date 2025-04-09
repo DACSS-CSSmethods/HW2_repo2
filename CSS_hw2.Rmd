@@ -1,8 +1,13 @@
 ---
 title: "css_homework 2B"
-output:
+output: 
   html_document:
+    self_contained: true
+    toc: true
+    number_sections: true
+    theme: readable
     df_print: paged
+output_file: index.html
 ---
 
 # Case 1: Peru
